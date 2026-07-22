@@ -1,7 +1,8 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  { name: "Experience", link: "#experience" },
+  { name: "Approach", link: "#approach" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -72,11 +73,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "A Task Management App",
-    des: "Had the idea of building a platform/dashboard where users can manage their tasks effectively",
-    img: "/tasklify.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    url: "https://task-management-app-ejay.vercel.app/",
+    title: "FlexCharge",
+    des: "FlexCharge is a subscription billing engine built for the African fintech ecosystem",
+    img: "/flexcharge.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg", "/fm.svg"],
+    url: "#",
   },
   {
     id: 2,
@@ -88,11 +89,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "An Activity Tracker",
-    des: "The app monitors fitness activities, tracks progress, and provides detailed analytics. Features include step counting, workout logging, goal setting, and real-time performance insights. ",
-    img: "/fitness.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    url: "https://my-activity-tracker.vercel.app/",
+    title: "DrDoGood",
+    des: "DrDoGood is an African health-tech platform designed to improve access to continuous and affordable healthcare in emerging markets",
+    img: "/drdogod.png",
+    iconLists: ["/next.svg", "/ts.svg", "/tail.svg", "/fm.svg", "/re.svg"],
+    url: "#",
   },
   {
     id: 4,
