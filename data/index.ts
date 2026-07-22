@@ -78,7 +78,7 @@ export const projects = [
     des: "FlexCharge is a subscription billing engine built for the African fintech ecosystem",
     img: "/flexcharge.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg", "/fm.svg"],
-    url: "#",
+    url: "https://flexcharge-engine.vercel.app/",
   },
   {
     id: 2,
@@ -94,7 +94,7 @@ export const projects = [
     des: "DrDoGood is an African health-tech platform designed to improve access to continuous and affordable healthcare in emerging markets",
     img: "/drdogod.png",
     iconLists: ["/next.svg", "/ts.svg", "/tail.svg", "/fm.svg", "/re.svg"],
-    url: "#",
+    url: "https://www.drdogood.health/",
   },
   {
     id: 4,
