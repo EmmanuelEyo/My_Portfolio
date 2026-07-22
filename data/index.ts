@@ -51,7 +51,7 @@ export const gridItems = [
   {
     id: 5,
     title:
-      "Currently building an AI Personalized Learning Web App to revolutionalize the way we learn",
+      "Currently building an automated, full-stack dispute resolution platform.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 rounded-3xl md:w-96 w-60",
