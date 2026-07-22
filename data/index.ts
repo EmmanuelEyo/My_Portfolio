@@ -50,7 +50,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building an AI Personalized Learning Web App to revolutionalize the way we learn",
+    title:
+      "Currently building an AI Personalized Learning Web App to revolutionalize the way we learn",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 rounded-3xl md:w-96 w-60",
@@ -85,7 +86,7 @@ export const projects = [
     des: "Provides real-time weather updates, forecasts, and interactive maps. Features include location-based weather data, search functionality, and a user-friendly interface.",
     img: "/weather.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    url: "https://weather-app-psi-steel-17.vercel.app/"
+    url: "https://weather-app-psi-steel-17.vercel.app/",
   },
   {
     id: 3,
